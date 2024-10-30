@@ -4,7 +4,7 @@
 
 pkgbase=sleepless-kitty-git
 pkgname=(kitty-git kitty-terminfo-git kitty-shell-integration-git)
-pkgver=0.36.4.r100.g8b7cd98a0
+pkgver=0.37.0.r0.g2531c31d0
 pkgrel=1
 epoch=1
 pkgdesc="Modern, hackable, featureful, OpenGL based terminal emulator"
